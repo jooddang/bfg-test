@@ -1,5 +1,5 @@
 class GcmPushLog < ActiveRecord::Base
-  attr_accessible ***REMOVED***, :user_ids, ***REMOVED***, :result
+  attr_accessible :message, :user_ids, :result
 
   def test():
     puts 'adsf'
