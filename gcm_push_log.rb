@@ -4,5 +4,6 @@ class GcmPushLog < ActiveRecord::Base
   def test():
     puts 'adsf'
 	puts 'ddd'
+	puts 'dddddd'
   end
 end
